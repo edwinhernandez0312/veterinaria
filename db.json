@@ -1,0 +1,40 @@
+{
+  "personas": [
+    {
+      "nombrePersona": "edwin",
+      "tipoDocumento": "CC",
+      "numeroDocumento": "46346345734",
+      "telefono": "735775377",
+      "direccion": "avenida 6b 5-06",
+      "ciudad": "Cúcuta  ",
+      "id": 1
+    },
+    {
+      "nombrePersona": "clara",
+      "tipoDocumento": "CC",
+      "numeroDocumento": "446737537",
+      "telefono": "4564357347",
+      "direccion": "calle 34 6-20",
+      "ciudad": "Bogotá ",
+      "id": 2
+    }
+  ],
+  "mascotas": [
+    {
+      "nombreMascota": "kira",
+      "tipo": "perro",
+      "raza": "mestizo",
+      "propietario": "jorge",
+      "id": 2
+    }
+  ],
+  "citas": [
+    {
+      "fecha": "2021-07-14",
+      "nombrePropietario": "angela",
+      "nombreMascota": "kkjhb",
+      "sintomas": "yfgy",
+      "id": 2
+    }
+  ]
+}
